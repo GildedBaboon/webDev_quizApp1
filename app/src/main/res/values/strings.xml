@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">webDev_quizApp1</string>
+    <string name="question"></string>
+    <string name="correctNum"></string>
+    <string name="wrongNum"></string>
+    <string name="answer1"></string>
+    <string name="answer2"></string>
+    <string name="answer3"></string>
+    <string name="answer4"></string>
+</resources>
